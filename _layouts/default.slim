@@ -1,0 +1,17 @@
+doctype html
+html
+  head
+    % include head.slim
+  body
+    .container.azul
+      |  <header class="top row gutters{% if page.title == "Anasayfa" %} fadeInLeft animated{% endif %}">
+      .col.span_2.center
+        a#logo[href="{{ site.url }}" title="{{ site.data.brume.name }}" style="background-image: url({{site.baseurl}}/public/images/logo.png);"]
+      % include navigation.slim
+      |  {{ content }}
+      footer
+        % include footer.slim
+    script[src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"]
+    script[src="{{site.baseurl}}/public/js/jquery.fitvids.js"]
+    script
+      |  $(document).ready(function(){ $("article").fitVids(); });

@@ -1,0 +1,11 @@
+---
+layout: default
+title: Home
+---
+
+section.archive
+  |  {% for post in site.posts %}
+  article.row.gutters
+    a.col.span_8[href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"]
+      | {{ post.title }}
+  |  {% endfor %}
