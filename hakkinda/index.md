@@ -13,10 +13,10 @@ Daha sonra  İstanbul’da  Bakırköy  Ruh ve Sinir  Hastalıkları  Hastanesi 
 
 1999 yılındaki  büyük   depremin  ardından,  Psikologlar  Derneği  organizasyonuyla  yurtdışından gelen  EMDR  terapistlerinden  eğitim aldı  ve  iki  yıl  aynı  organizasyon içinde depremzedelerle  çalıştı.
 
-2000- 2006  yılları arasında,  Anadolu  Grubu  bünyesinde, Dr.  Allen  Siegel  aracılığıyla  International Assosiation for  Psychoanalytic  Selfpsychology  kadrosundaki  analistlerden  eğitim ve supervizyon  aldı.
+2000- 2006  yılları arasında,  Anadolu  Grubu  bünyesinde, Dr.  Allen  Siegel  aracılığıyla  International Association for  Psychoanalytic  Selfpsychology  kadrosundaki  analistlerden  eğitim ve supervizyon  aldı.
 
 2006-2007  yıllarında Chicago Psikanaliz Derneğinin  Psikanalitik Psikoterapi  uzaktan  eğitim programını tamamladı.
 
 Uzun  yıllar  İçgörü  Psikoterapi  Merkezi’nde  çalıştı.  Halen  Çekmeköy’deki  muayenehanesinde çalışmaya  devam  etmektedir. Özellikle  ilgilendiği  konular  kişilik  bozuklukları  ,  depresyon,  kaygı bozuklukları, psikolojik  nedenlere  bağlı  olarak ortaya  çıkan  bedensel  yakınmalardır. Psikodinamik  psikoterapi ,  EMDR  ve  gerektiğinde  ilaç  tedavisi  uygulamaktadır.
 
-__Üyelikler:__  Türk  Tabipler  Birliği  ,  Türkiye  Psikiyatri  Derneği , Anadolu  Psikanalitik  Psikoterapiler Derneği  ,  International  association  for  Psychoanalytic  Selfpsychology
+__Üyelikler:__  Türk  Tabipler  Birliği  ,  Türkiye  Psikiyatri  Derneği , Anadolu  Psikanalitik  Psikoterapiler Derneği  ,  International  Association  for  Psychoanalytic  Selfpsychology
