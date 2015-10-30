@@ -3,25 +3,39 @@ layout: post
 title: PSİKODİNAMİK    PSİKOTERAPİ
 ---
 
-Kendimizden hoşnut olmak, hayatımızdaki  kişilerle  iyi ilişkiler içinde olmak  ve tatmin edici bir  çalışma  hayatımızın olması, çoğumuzun  hayattaki hedefleridir. Bu hedeflere ulaşmak için  bizleri  yönlendiren  belli  tarzlarımız, yöntemlerimiz vardır. Büyüyüp olgunlaştıkça  bu  yöntemler  epeyce  sabitleşir ve  onlarda değişiklik yapmak  pek de kolay olmaz. Davranış biçimlerinin  alışkanlık  oluşturma  özelliğini, yokuş aşağı akan suyun  zamanla   kendisine  bir  yatak oluşturmasına  benzetebiliriz. Suyun  yolunu değiştirmek  istersek,  bunun için   uğraşmamız gerekir. Belli bir  yaştan sonra bizlerin de hissetme,  düşünme  ve davranma   biçimlerimiz  sürekli hale gelir. Fakat  pek çok kişinin, kendisini  algılama  ve  ilişkilerini  sürdürme  biçimleri  tatmin edici değildir ve değiştirmek için bir yönteme  ihtiyaçları vardır.
+Genel olarak   _“psikoterapi”_  kelimesi , konuşma    yoluyla  psikolojik sorunların giderilmesini
+amaçlayan  tedavi  biçimlerine  verilen isimdir.  _“Konuşma”_  eyleminin  _“psikoterapi”_  olabilmesi için  bu
+konuda eğitim almış bir uzman tarafından  uygulanıyor olması , diğer kişinin  psikolojik sorunlarını tedavi
+etmeyi  amaçlaması, belli bir  kurama dayanması  ve  sınırları   belli bir  terapi  çerçevesi  içinde
+uygulanıyor olması gerekir.
 
-Problem şudur ki,  değişmek istediklerini bilirler fakat  neyi  değiştirmeleri gerektiğini  bilmezler. Çünkü  alışkanlık   haline  gelen  davranış  biçimleri,  farkında olmadığımız arzular, korkular   ve  çatışmalar   yüzünden  böyle   gelişmiştir. Örneğin,  hiç bir zaman kendisini savunamayan  fakat sebebini de bilmeyen  bir kişi, muhtemelen  çok derinlerde  cezalandırılmayı  hakettiğini  hissetmektedir. Bu kişi  analiz sürecinde , hayatı boyunca   kendisini  sabote ederek    cezalandırdığını  farkederse,  yeni  davranış biçimleri geliştirebilecek ve  hayatı değişebilecektir.
+_“Psikodinamik  Psikoterapi”_ de   bu kuram,  _“Psikanaliz”_ kuramıdır. Psikanalizin kurucusu olan
+Freud’dan bu yana  çeşitli  psikanaliz  okulları ortaya çıktı ve kuramı da  uygulama  alanlarını da
+zenginleştirdi. Hepsini  kapsayan ortak  payda  ise  bilinçdışı dinamiklerin önemine yapılan vurgudur .  Bu
+yaklaşım   Psikodinamik Psikoterapi’nin  diğer  psikoterapi  yöntemlerinden  farkını  oluşturur.
 
-Psikodinamik ( içgörü yönelimli ) psikoterapi, bunlarla  ilgilenir.Kişilere  hissetme, düşünme ve davranmanın yeni yollarını  yaratmayı, yaşam kalitesini ve kendinden memnuniyeti  arttırmayı  amaçlar. Kendimiz hakkındaki düşüncelerimiz  ve  çevremizdekilerle  ilişki kurma biçimlerimiz biz  büyürken  oluştuğundan, terapi sürecinin de  büyümeyi  yeniden  harekete geçirmek  olduğunu  düşünebiliriz. Sinir bilimlerindeki  yeni gelişmeler de  bu  görüşü  desteklemektedir. Örneğin, bütün  öğrenmelerin, sinir hücreleri  arası  dolaşım ağlarındaki değişmelerden  ortaya  çıktığı  ileri  sürülmektedir, yani  erişkin  beyninde de  değişiklikler  her zaman  mümkündür. Psikoterapi  sürecinde  beyin fonksiyonları da  çalışır. Sinir hücreleri arasında yeni bağlantı ağları oluşur.
 
-Bu modele  göre,  her türlü çevre  büyümeyi  kolaylaştırmaz. Kişinin   kendisini  güvende  hissedeceği  ve  bu  değişimlerin  oluşmasına  bırakabileceği  bir dizi özel  koşul gerekir. Alışkanlık haline   gelmiş  bir durumu  değiştirmek  isterseniz,    yol gösterici diğer bir kişiye de ihtiyaç vardır.
+Bilinçdışı dinamikler neden bu kadar önemli !  Bilinç düzeyinde  hemen herkes  kendisinden hoşnut
+olmak, iyi ilişkiler kurmak  ,tatmin edici bir  çalışma  hayatının olmasını ister.  Bunları  sağlamak için
+geliştirdiğimiz  yöntem ve tutumlarımız vardır . Bazılarımız  içinse bu  yöntemler  tatmin edici  değildir,
+birşeylerin  değişmesi  gerekir  ama neyin  ve nasıl? Bu alışkanlıklar, farkında olmadığımız arzular,
+korkular, çatışmalar nedeniyle bu şekilde gelişmiştir. Örneğin yaşamı boyunca  kendisini savunamamış
+bir kişi ,  analiz sürecinde çok derinlerde  suçluluk  duyduğunu  , kendisini sabote ederek cezalandırdığını
+farkedebilir. Bu farkındalık  zor olsa da  , zamanla  daha özgür seçimler  yapmasını  , yeni davranış
+biçimleri  geliştirmesini  sağlayabilir.
 
-Değişme, sadece  kişi  kendisiyle ilgili yeni şeyler  öğrendiği için olmaz. Yeni  düşünme ve davranma  yollarını  denemek  için terapistiyle  bu  yeni  ilişki  içinde  kendisini  güvende  hissettiği  için  olur.
+Birşeylerin farkında olmak,  değişimi sağlamak için yeterli değildir. Bu süreç içinde  , kendisini
+güvende hissedeceği  bir  yol göstericiye de ihtiyaç  vardır.  Alışkanlıklar,  beyinde  sinirler arası  bağlantı
+ağları şeklinde  yıllar içinde  oluşmuştur.  Yeni  öğrenmeler,  yeni  bağlantı ağları da  oluşturur  yani
+değişim  ileri yaşlarda da mümkündür.Bir anlamda ,  çocukluk yıllarında  bazı acı verici deneyimler
+nedeniyle  donmuş  veya  sapmış  psişik   gelişme süreci,  terapiyle sağlıklı  bir  mecrada   tekrar  canlanır .
 
-Genel olarak psikoterapi,  psikolojik sorunların  konuşma  yoluyla tedavisidir.  Psikoterapinin  sıradan bir konuşmadan farklı olması için   bu konuda  eğitim    almış  bir  uzman tarafından  bir kurama göre ve  belirli bir çerçeve içinde uygulanması, zihinsel ve duygusal iyileşmeyi  amaçlaması  gerekir.
+Psikodinamik psikoterapi kişilere  hissetme, düşünme  ve davranmanın  yeni yollarını yaratmayı ,
+kendisinden  hoşnutluğunu  ve yaşam kalitesini arttırmayı  amaçlar.
 
-Psikodinamik  psikoterapi, psikanaliz kuramını  temel alır.  Bu kurama göre  farkında olmadığımız duygular, anılar, çatışmalar, kendilik algıları, ilişki  biçimleri  bilinçdışında  hareket halindedir  ve  semptom  oluşturabilir. İyileşmeye  yol açan   etkenlerden  birisi , bilinçdışını  bilinçli  hale  getirmektir. Bilinçdışında üstü  örtülmüş, adeta apseleşmiş  düşünce ve duyguların  boşalması, bir hafiflik hissi yaratır. Bunlar  bilinçdışında karanlıkta  kaldıkça  hem   çoğalırlar, hem de  duygu ve davranışlarımızı   istemediğimiz  yönde  etkilerler, semptom oluşumuna  yol açarlar. Kendimizi bu açılardan daha iyi tanıdıkça,  seçimlerimizi ve  kararlarımızı daha özgürce  uygulayabiliriz.
-
-Psikodinamik  psikoterapinin diğer bir iyileştirme  mekanizması, zihinsel  ve duygusal    gelişmeyi  daha sağlıklı bir  mecrada  yeniden canlandırmaktır. Sağlıklı gelişimi engelleyen, donduran  sebepler genellikle,  çocuklukta  maruz  kalınan ihmal, taciz, duygusal  yoksunluk,  ebeveynle  uyumlu bir ilişki  kurulamamış  olması gibi acı verici   yaşantılardır. Sinirbilimlerindeki  gelişmeler, bu tür erken deneyimlerin  biyolojik yapıda  kalıcı değişikliklere neden olduğunu,  bu durumun  belli  koşullarda  geriye döndürülebildiğini  söylemektedir. Terapistle yeni bir ilişki biçimi sayesinde, gelişme yeniden canlanabilmektedir. Bu yolla kişi, kendisiyle ilgili  yeni düşünme biçimleri kazanır ve  benlik saygısı artar. Çevresindekilerle  yeni ilişki kurma biçimleri geliştirir. Daha esnek  başa  çıkma  yöntemleri  kazanır.
-
-Üçüncü  iyileştirme mekanizması,  ego  fonksiyonlarını  desteklemektir. Zihnimizin işleyişi, id - ego - superego  olarak  isimlendirilen  üç temel   işlev  birimi  tarafından  sürdürülür. İd  bilinçdışı arzuları, superego  vicdan ve idealleri  kapsar. Ego, id ve superegonun taleplerini de dikkate alarak kişinin  iç dünyası ile  dış  dünyasının  ilişkilerini  düzenler. Bunu başarabilmek için egonun  temel  fonksiyonları şunlardır: Dürtü kontrolü, içerden ve dışardan gelen uyaranların  düzenlenmesi, şiddetli duygular ve kaygıya tahammül edebilme becerisi, savunma mekanizmalarının çalıştırılması. Ego fonksiyonları zayıfsa, kişi pekçok alanda zorluk yaşar. Ego zayıflığı  sürekli de olabilir, veya  yoğun bir stress, travma  veya fiziksel hastalık nedeniyle bir süreliğine  yetersiz kalmış da olabilir. Terapist tarafından   ego  fonksiyonlarının desteklenmesi,  yeni  düşünme ve  başa  çıkma  yollarının  öğrenilmesiyle  kalıcı hale  gelebilir.
-
-Psikodinamik  (psikanalitik)  psikoterapi,  ortalama  haftada  1-2 seans   yüzyüze  görüşmeler  şeklinde sürdürülür.  Kısa süreli  terapi,  sınırlı konular  çerçevesinde  birkaç haftadan birkaç aya kadar  uzanan    sürelerde olabilir.  Daha derinlemesine  kişilik  yapısında bazı  değişiklikler  hedefleniyorsa, uzun süreli  psikoterapi  birkaç yıl sürebilir.
+Yüzyüze görüşmeler şeklinde  haftada  bir  veya iki  seans sıklıkta  uygulanır.  Sınırları  belli   bir
+konuda  çalışılacaksa  birkaç  haftadan   birkaç aya kadar  sürebilir.  Kişilik  düzeyinde derin bir çalışma ise
+birkaç yılı kapsar.
 
 ### Kaynak:
 
