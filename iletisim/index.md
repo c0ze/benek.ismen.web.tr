@@ -3,5 +3,9 @@ layout: page
 title: İletişim
 ---
 
-<a href="mailto:ismen.psikiyatri@gmail.com">E-mail ile ulaşın<a/>
+### Telefon: 0216  641 48 49
+
+### Email: ismen.psikiyatri@gmail.com
+
+<a href="mailto:ismen.psikiyatri@gmail.com">E-mail Gönderin<a/>
 
