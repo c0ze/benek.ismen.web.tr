@@ -35,8 +35,5 @@ kendisinden  hoşnutluğunu  ve yaşam kalitesini arttırmayı  amaçlar.
 
 Yüzyüze görüşmeler şeklinde  haftada  bir  veya iki  seans sıklıkta  uygulanır.  Sınırları  belli   bir
 konuda  çalışılacaksa  birkaç  haftadan   birkaç aya kadar  sürebilir.  Kişilik  düzeyinde derin bir çalışma ise
-birkaç yılı kapsar.
-
-### Kaynak:
-
-* Cabaniss D.L., Cherry S., Douglas C.J., Schwartz A.R. : ___Psychodynamic  Psychotherapy   A  clinical manual___  2011 b: John Wiley & Sons Ltd.
+birkaç yılı kapsar. Destekleyici amaçla  kullanılan  psikodinamik psikoterapi, daha seyrek görüşmeler
+şeklinde uzun yıllar devam edebilir.
