@@ -4,7 +4,7 @@ title: Home
 ---
 
 section.archive
-  |  {% for post in site.posts %}
+  |  {% for post in site.posts reversed %}
   article.row.gutters
     a.col.span_8[href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"]
       | {{ post.title }}
