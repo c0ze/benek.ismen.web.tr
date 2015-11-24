@@ -21,7 +21,7 @@ yılında  kamu  hizmetinden  ayrılıp  İçgörü  Psikoterapi  Merkezi’nde 
 gelen  EMDR  terapistlerinden  eğitim aldı  ve  iki  yıl  aynı  organizasyon içinde depremzedelerle  çalıştı.
 
 2000- 2006  yılları arasında,  Anadolu  Grubu  bünyesinde, Dr.  Allen  Siegel  aracılığıyla  The International
-Assosiation for  Psychoanalytic  Selfpsychology  kadrosundaki  analistlerden  eğitim ve supervizyon  aldı.
+Association for  Psychoanalytic  Self Psychology  kadrosundaki  analistlerden  eğitim ve supervizyon  aldı.
 
 2006-2007  yıllarında  Chicago   Psikanaliz  Enstitüsünün  Psikanalitik Psikoterapi  uzaktan   eğitim
 programını  tamamladı.
@@ -33,4 +33,4 @@ bz.), travma  sonrası  stres  bozukluğu, bedensel yakınmalara  yol açan  psi
 Psikodinamik  psikoterapi ,  EMDR  ve  gerektiğinde  ilaç  tedavisi  uygulamaktadır.
 
 __Üyelikler:__  Türk  Tabipler  Birliği  ,  Türkiye  Psikiyatri  Derneği , Anadolu  Psikanalitik  Psikoterapiler
-Derneği  ,  The International  Association  for  Psychoanalytic  Selfpsychology
+Derneği  ,  The International  Association  for  Psychoanalytic  Self Psychology
