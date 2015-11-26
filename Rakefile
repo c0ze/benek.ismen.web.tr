@@ -16,7 +16,7 @@ end
 desc "Deploy via S3"
 task :s3 do
 
-  config = YAML.load_file "./_config.yml"
+  config = YAML.load_file "./_awsconfig.yml"
   local_dir = './_site'
 
   access_key = config['aws']['access_key']
