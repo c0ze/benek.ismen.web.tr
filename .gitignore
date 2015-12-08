@@ -7,4 +7,4 @@ node_modules
 .sass-cache
 .ruby-version
 _config.yml
-_awsconfig.yml
+.env

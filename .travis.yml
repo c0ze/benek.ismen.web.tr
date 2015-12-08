@@ -1,10 +1,12 @@
 language: ruby
 rvm: 2.1.4
-script: "bundle exec rake s3"
+script: "bundle exec jekyll build && bundle exec rake s3"
 branches:
   only:
     - releases
 env:
   global:
-    - secure: ...
-    - secure: ...
+    - secure: "OHHv1EJO8+p/OtiTBGXkLe4sJBzQQVhvfGd6vpXQY+ikO5jHNpjC2S5S9D2JmxSLtmkzpQ5O68f+osXRi6XncPc5pq1LLLxfVeqvzdBH0ttaR29gQUwXzdsEEVK9pe1m5jUvxXDL4cUNlbg6IIzTWArOM0cqwmXz9Dx4y0VOcMbCWgo7yQEk48MJV3tl5lpq1iawttoKIMmvowUcysn9Wd7pBMxEGTBJkzMNHEYSAbr0K/rvElQaoxuWAKcpqaCeyqL7YbnIVzsnzwJypZqYkpEOxvtS+ZqMcXbbQLuuwynGHVBvAXQtNabNaKA+UsPq3IEh9sqtBh6MWXSEF9zY8P9dE/DzcZ/DidrdTp95R2kUv8kfzkLfCboInvRw02R0aYc7wrqe2VRiAzio2xfd241Xy7fqiNERgaZf96DAFVV76gRkbAHoLIG+zkBjaJ4FSO2/hXb8pa+rsk0m/pduG++2qiLb8Rawo38dcHqNKzl7/hdVDEs5FVitjztWVvF/Ym1H+YFXUBN5ONjKs8U6E4QoTLXn4bDzCOanuaWbMhnoBgf5cg+3SVQk0E5m22E7WSg93yG/z8sLE7P9hbUg77tRsKr+D1xSIvkIb5eRLPnHv5nuq9ofMctB8yeHs4Egy2Qjycokg9EFsnbiN0RsEfSvj9gYaj9jV6dcogZfdco="
+    - secure: "EBf3mUfgvDBAv+zqYrz+aUIfePj6QPWh9VeCkOl+UuwxHt9cJp+bOIBNVgQy1imxbHucHlMLP8DqOD0F/V05SvpHR4TFUiJ2TeWW8zT0dTh4HYeI2EuaqXtpUWtsD33JcqZ9BBzQ1jeWQQ40gnVKejM9uX1/KcPcOXAyoDWYU0pHH9QLtuZXtZX1ShDTEceMTZBMvZYn3KTcx4DehTlNPgAUxPgHx8gutz6kL70WHAinWt/b/aBVnmULjBEokWmMQUyNIETUXAjPExavljXeW558S6kJI/TLdxMMquH5qJfWJ7qcgZyPBQIOJ7jTEljhm3yGOcJjnT7wufKDynJafgSjzo1CQh38PSRNUmZSK8/pNt+btKqe+v5txfb3c4SWhqQAqOBzfU5Ysgu3hlocX86dApm2yi9qegz+WNnP4gR3a9l+aFzq10EPyEWQK0eU9rNs8M9k6yyWdnVrvHdlcxNWzp3bWTNm1KxK4e3jD/x6UTh8bj9erPbPXaf8eaAT096FJRGsOn6wnWwEY1D6g5JNBsA4xE+vlM+0fNkwHfLIY7TKsICgZVmzelewS0gokOgu6I9aJ60AvYnWFEkGbqBPh3XYPH5HKRTVM8V5C4oDpxarwgpNaGKautLsFKGIbmabxINvwHsv3b4BX5E/H13q1YyzyUYTIFzu4mkNd1E="
+    - AWS_REGION="eu-central-1"
+    - AWS_BUCKET_NAME="benek.ismen.web.tr"

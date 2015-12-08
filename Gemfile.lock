@@ -17,6 +17,7 @@ GEM
       execjs
     coffee-script-source (1.10.0)
     colorator (0.1)
+    dotenv (2.0.2)
     execjs (2.6.0)
     fast-stemmer (1.0.2)
     ffi (1.9.10)
@@ -86,6 +87,7 @@ PLATFORMS
 
 DEPENDENCIES
   aws-sdk (= 2.2.1)
+  dotenv
   i18n
   jekyll (= 2.0.1)
   jekyll-slim

@@ -1,5 +1,7 @@
 require "aws-sdk"
-require "yaml"
+require "dotenv"
+
+Dotenv.load
 
 def traverse_directory(path)
   Dir.entries(path).map do |f|
@@ -16,13 +18,11 @@ end
 desc "Deploy via S3"
 task :s3 do
 
-  config = YAML.load_file "./_awsconfig.yml"
+  access_key = ENV['AWS_ACCESS_KEY']
+  secret_key = ENV['AWS_SECRET_KEY']
+  region = ENV['AWS_REGION']
+  bucket_name = ENV['AWS_BUCKET_NAME']
   local_dir = './_site'
-
-  access_key = config['aws']['access_key']
-  secret_key = config['aws']['secret_key']
-  region = config['aws']['region']
-  bucket_name = config['aws']['bucket_name']
 
   s3 = Aws::S3::Client.new(
     region: region,

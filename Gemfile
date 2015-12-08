@@ -6,5 +6,6 @@ gem 'jekyll-slim'
 gem 'i18n'
 gem 'therubyracer'
 gem 'aws-sdk', '2.2.1'
+gem 'dotenv'
 
 # gem "rails"
