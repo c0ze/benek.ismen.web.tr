@@ -1,5 +1,14 @@
 meta[charset="utf-8"]
-|  <meta name="description" {% if page.title == "Home" %} content="{{ site.data.brume.description }}" {% else %} content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" {% endif %}>
+| {% if page.desc %}
+<meta name="description" content="{{ page.desc }}" />
+| {% else %}
+<meta name="description" content="{{ site.data.brume.description }}" />
+| {% endif %}
+| {% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}" />
+| {% else %}
+<meta name="keywords" content="{{ site.data.brume.keywords }}" />
+| {% endif %}
 meta[name="author" content="{{ site.data.brume.author }}"]
 meta[name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"]
 title

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: PANİK ATAK
+desc: "panik atak sendromlari"
+keywords: "panik atak, anksiyete"
 ---
 
 _“ Otuzlu  yaşlarında bir kadın   hastanenin acil polikliniğine  başvurur.İşyerinde  masasında  otururken
