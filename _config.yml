@@ -1,0 +1,24 @@
+# Site settings
+title: İşmen Psikiyatri Muayenehanesi
+email: ismen.psikiyatri@gmail.com
+description: >
+  İşmen Psikiyatri Muayenehanesi
+url: "http://benek.ismen.web.tr"
+baseurl: ""
+
+gems:
+  - jekyll-slim
+
+exclude: [vendor]
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+highlighter: null
+permalink: /:title
+
+sass:
+  sass_dir: public/css
+  style: :compressed
