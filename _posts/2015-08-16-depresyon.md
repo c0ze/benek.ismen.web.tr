@@ -1,8 +1,9 @@
 ---
 layout: post
 title: DEPRESYON
-desc: "depresyon sendromu"
-keywords: "depresyon, bunalim"
+desc: "Depresyonda ilgi ve istek kaybı, umutsuzuk, değersizlik duyguları, uyku ve iştahta değişiklikler görülür."
+keywords: "depresyon, çökkünlük, değersizlik, umutsuzluk"
+
 ---
 
 Depresyon, toplumda en sık görülen  psikiyatrik tablolardan birisidir. Her beş kadından biri ve her on erkekten biri hayatının bir döneminde  klinik düzeyde depresyon yaşar. Kadınlarda görülme oranının  erkeklerden iki kat daha fazla olmasının sebebi tam olarak bilinmemekle beraber, hem biyolojik yapıdaki farklılığın, hem de toplumun  kadınlara yüklediği  zorlukların etkili olduğu düşünülmektedir. Birinci derece akrabaları depresyon geçirenlerde, görülme sıklığı  2-3 kat daha fazladır. Tekrarlayan depresyonlar, yaklaşık % 40 oranında genetik faktörler ve % 60 oranında dış faktörlerin etkileşimiyle ortaya çıkar. Depresyonu tetikleyen yaşam olayları arasında  kayıplar  ön plandadır. Sevilen bir kişinin kaybı, ilişki kaybı, statü veya rol kaybı, onur kaybı, sağlık kaybı gibi. Aile içi ilişkilerdeki zorluklar da sık görülen sebepler arasındadır. Genetik ve psikososyal faktörler dışında, bazı organik nedenler de depresyona zemin hazırlayabilir. En sık rastlananlar tiroid hastalıkları, diyabet, bazı nörolojik hastalıklar ve diğer bazı sistemik  hastalıklardır.

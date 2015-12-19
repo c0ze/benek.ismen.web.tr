@@ -1,8 +1,9 @@
 ---
 layout: post
 title: PANİK ATAK
-desc: "panik atak sendromlari"
-keywords: "panik atak, anksiyete"
+desc: "Panik atakta şiddetli bir sıkıntı, çıldırma veya ölme korkularıyla birlikte çarpıntı, başdönmesi, titreme, yabancılaşma  belirtileri vardır."
+keywords: "panik atak, anksiyete, bunaltı, agorafobi"
+
 ---
 
 _“ Otuzlu  yaşlarında bir kadın   hastanenin acil polikliniğine  başvurur.İşyerinde  masasında  otururken

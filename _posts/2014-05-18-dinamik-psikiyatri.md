@@ -1,6 +1,9 @@
 ---
 layout: post
 title: DİNAMİK PSİKİYATRİ
+desc: "Dinamik psikiyatri, hastaya tanı koymanın ötesine geçerek, içinde bulunduğu ruh halinin dinamiklerini anlamaya çalışan bir disiplindir."
+keywords: "Dinamik psikiyatri, psikanaliz kuramı, bilinçdışı"
+
 ---
 
 Bizler  gerek  biyolojik yapımız ve gerekse  derinlemesine ruhsal  yapımızla,  içinde bulunduğumuz  ortamla  sürekli etkileşim içinde  olan  karmaşık  varlıklarız. Bir  problem yaşadığımızda da, bunu anlamak ve  iyileştirmek için  olayı hem  fizyopatolojik, hem  psikolojik  hem de sosyal açıdan  ele almak gerekir  çünkü bu  üç  alan da sürekli birbiriyle etkileşim halindedir. Fizyopatolojik  ve  sosyal  açıdan  nispeten  gözlenebilen  ve  ölçülebilen  ipuçlarına  sahibiz. Ama  psikolojik ve  psikiyatrik problemlerde durum daha  karmaşık. Biraz netleşmek adına  basitleştirerek  söylersek,  tıp disiplinini temel alan  ___Deskriptif  Psikiyatri___ ile, ruhsal yapıyı anlamada en çok kullanılan  kuram olan  psikanaliz  kuramına dayanan ___Dinamik  (psikodinamik)  Psikiyatri___'yi  birlikte  kullanmak  önemlidir.
