@@ -1,6 +1,6 @@
 language: ruby
 rvm: 2.1.4
-script: "bundle exec jekyll build && bundle exec rake s3"
+script: "bundle exec jekyll build && bundle exec rake minify && bundle exec rake s3"
 branches:
   only:
     - releases
@@ -10,3 +10,4 @@ env:
     - secure: "EBf3mUfgvDBAv+zqYrz+aUIfePj6QPWh9VeCkOl+UuwxHt9cJp+bOIBNVgQy1imxbHucHlMLP8DqOD0F/V05SvpHR4TFUiJ2TeWW8zT0dTh4HYeI2EuaqXtpUWtsD33JcqZ9BBzQ1jeWQQ40gnVKejM9uX1/KcPcOXAyoDWYU0pHH9QLtuZXtZX1ShDTEceMTZBMvZYn3KTcx4DehTlNPgAUxPgHx8gutz6kL70WHAinWt/b/aBVnmULjBEokWmMQUyNIETUXAjPExavljXeW558S6kJI/TLdxMMquH5qJfWJ7qcgZyPBQIOJ7jTEljhm3yGOcJjnT7wufKDynJafgSjzo1CQh38PSRNUmZSK8/pNt+btKqe+v5txfb3c4SWhqQAqOBzfU5Ysgu3hlocX86dApm2yi9qegz+WNnP4gR3a9l+aFzq10EPyEWQK0eU9rNs8M9k6yyWdnVrvHdlcxNWzp3bWTNm1KxK4e3jD/x6UTh8bj9erPbPXaf8eaAT096FJRGsOn6wnWwEY1D6g5JNBsA4xE+vlM+0fNkwHfLIY7TKsICgZVmzelewS0gokOgu6I9aJ60AvYnWFEkGbqBPh3XYPH5HKRTVM8V5C4oDpxarwgpNaGKautLsFKGIbmabxINvwHsv3b4BX5E/H13q1YyzyUYTIFzu4mkNd1E="
     - AWS_REGION="eu-central-1"
     - AWS_BUCKET_NAME="benek.ismen.web.tr"
+    - JEKYLL_ENV=production
