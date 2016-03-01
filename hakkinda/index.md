@@ -3,7 +3,9 @@ layout: page
 title: Hakkında
 ---
 
-<img style="float: right; width: 50%; height: 50%;" src="{{ site.url }}/public/images/portre.jpg" />
+<div style="float: right;">
+  {% image portre.jpg [resize:30%] %}
+</div>
 
 İstanbul  Üniversitesi  Çapa   Tıp  Fakültesi’nden  mezun  olduktan  sonra  bir  süre  aynı  fakültenin
 Fizyoloji   Anabilim  Dalı’nda  araştırma  görevlisi  olarak  çalıştı. Bu  dönemde  sinir  sistemiyle  ilgili

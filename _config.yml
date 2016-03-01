@@ -22,3 +22,7 @@ permalink: /:title
 sass:
   sass_dir: public/css
   style: :compressed
+
+assets:
+  sources:
+    - _assets/images
