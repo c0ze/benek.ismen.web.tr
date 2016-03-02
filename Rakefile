@@ -4,6 +4,20 @@ require "reduce"
 
 Dotenv.load
 
+def local_dir; './_site'; end
+
+def access_key; ENV['AWS_ACCESS_KEY']; end
+def secret_key; ENV['AWS_SECRET_KEY']; end
+def region;  ENV['AWS_REGION']; end
+def bucket_name;  ENV['AWS_BUCKET_NAME']; end
+
+def file_types
+  { ".html" => { type: "text/html" },
+    ".css" => { type: "text/css" },
+    ".js" => { type: "application/javascript" }
+  }
+end
+
 def traverse_directory(path)
   Dir.entries(path).map do |f|
     next if [".", ".."].include? f
@@ -24,20 +38,33 @@ def gzip(data)
   sio.string
 end
 
-desc "Deploy via S3"
-task :s3 do
+def upload_compressed_object(key, f, ext)
+  s3.put_object bucket: bucket_name,
+                key: key,
+                body: gzip(File.read(f)),
+                acl: "public-read",
+                content_type: file_types[ext][:type],
+                content_encoding: "gzip",
+                cache_control: "max-age=604800"
+end
 
-  local_dir = './_site'
+def upload_object(key, f, ext)
+  s3.put_object bucket: bucket_name,
+                key: key,
+                body: File.open(f),
+                acl: "public-read",
+                cache_control: "max-age=604800"
+end
 
-  access_key = ENV['AWS_ACCESS_KEY']
-  secret_key = ENV['AWS_SECRET_KEY']
-  region = ENV['AWS_REGION']
-  bucket_name = ENV['AWS_BUCKET_NAME']
-
-  s3 = Aws::S3::Client.new(
+def s3
+  @s3 = Aws::S3::Client.new(
     region: region,
     credentials: Aws::Credentials.new(access_key, secret_key)
   )
+end
+
+desc "Deploy via S3"
+task :s3 do
 
   page = s3.list_objects(bucket: bucket_name)
 
@@ -55,43 +82,19 @@ task :s3 do
   traverse_directory(local_dir).flatten.compact.each do |f|
     key = f.gsub(local_dir+"/", "")
     ext = File.extname(f)
-    if ext == ".html"
-#      key = key.gsub(".html", "")
-      s3.put_object bucket: bucket_name,
-                    key: key,
-                    body: gzip(File.read(f)),
-                    acl: "public-read",
-                    content_type: "text/html",
-                    content_encoding: "gzip",
-                    cache_control: "max-age=604800"
-    elsif ext == ".css"
-      s3.put_object bucket: bucket_name,
-                    key: key,
-                    body: gzip(File.read(f)),
-                    acl: "public-read",
-                    content_type: "text/css",
-                    content_encoding: "gzip",
-                    cache_control: "max-age=604800"
-    elsif ext == ".js"
-      s3.put_object bucket: bucket_name,
-                    key: key,
-                    body: gzip(File.read(f)),
-                    acl: "public-read",
-                    content_type: "application/javascript",
-                    content_encoding: "gzip",
-                    cache_control: "max-age=604800"
+    if file_types.keys.include? ext
+      upload_compressed_object(key, f, ext)
     else
-      s3.put_object bucket: bucket_name,
-                    key: key,
-                    body: File.open(f),
-                    acl: "public-read",
-                    cache_control: "max-age=604800"
+      upload_object(key, f, ext)
     end
   end
 
   p "s3 deploy complete"
 end
 
+# Shamelessly copied from
+# https://gist.github.com/rrevanth/9377cb1f1664bf610e38#file-rakefile-L43
+# https://github.com/stereobooster/jekyll-press/issues/26
 desc "Minify site"
 task :minify do
   puts "\n## Compressing static assets"
