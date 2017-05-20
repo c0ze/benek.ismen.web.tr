@@ -3,6 +3,7 @@ layout: post
 title: DEPRESYON
 desc: "Depresyonda ilgi ve istek kaybı, umutsuzuk, değersizlik duyguları, uyku ve iştahta değişiklikler görülür."
 keywords: "depresyon, çökkünlük, değersizlik, umutsuzluk"
+excerpt: "…Depresyonda en sık görülen belirtiler umutsuzluk, karamsarlık, daha önce keyif alınan etkinliklere ilginin azalması, cinsel isteksizlik, enerjisizlik, kendine güvenin azalması, uyku ve iştahta değişiklikler, kararsızlık, konsantrasyon güçlüğü gibi belirtilerdir……"
 
 ---
 

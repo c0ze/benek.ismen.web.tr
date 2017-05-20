@@ -3,6 +3,7 @@ layout: post
 title: PANİK ATAK
 desc: "Panik atakta şiddetli bir sıkıntı, çıldırma veya ölme korkularıyla birlikte çarpıntı, başdönmesi, titreme, yabancılaşma  belirtileri vardır."
 keywords: "panik atak, anksiyete, bunaltı, agorafobi"
+excerpt: "Sebep yokken aniden ortaya çıkan şiddetli iç sıkıntısı,kontrolü kaybedip çıldırma veya ölme korkusu, çarpıntı, titreme, başdönmesi, vücutta uyuşma veya karıncalanma hissi, yabancılaşma duygusu gibi belirtilerle ortaya çıkabilir……"
 
 ---
 

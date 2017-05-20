@@ -3,7 +3,7 @@ layout: post
 title: PSİKODİNAMİK    PSİKOTERAPİ
 desc: "Psikodinamik psikoterapi, psikanaliz kuramına dayanarak psikolojik sorunları tedavi eden  bir terapi yöntemidir."
 keywords: "psikanaliz, biliçdışı,psikoterapi"
-
+excerpt: "…Bilinç düzeyinde herkes kendisinden hoşnut olmak, iyi ilişkiler kurmak, tatmin edici bir çalışma hayatının olmasını ister. Bunları sağlamak için geliştirdiğimiz yöntemler bazılarımız için tatmin edici değildir. Birşeylerin değişmesi gerekir ama neyin ve nasıl?...."
 ---
 
 Genel olarak   _“psikoterapi”_  kelimesi , konuşma    yoluyla  psikolojik sorunların giderilmesini

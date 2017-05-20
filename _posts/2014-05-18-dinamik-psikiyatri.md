@@ -2,6 +2,7 @@
 layout: post
 title: DİNAMİK PSİKİYATRİ
 desc: "Dinamik psikiyatri, hastaya tanı koymanın ötesine geçerek, içinde bulunduğu ruh halinin dinamiklerini anlamaya çalışan bir disiplindir."
+excerpt: "……Belirli kriterlere göre tanısı konan klinik tablonun altında yatan psişik etkenler,stres faktörleri ve kişinin bunlarla başa çıkma yöntemleri, semptomlarına verdiği tepki, kısaca sadece o kişiye özgün olan iç dünyası psikanaliz kuramının rehberliğinde anlaşılmaya çalışılır…"
 keywords: "Dinamik psikiyatri, psikanaliz kuramı, bilinçdışı"
 
 ---
