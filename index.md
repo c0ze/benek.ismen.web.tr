@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Anasayfa
+title: 
 ---
 
-Dr. Benek İşmen
+_Dr. Benek İşmen_
 
-Psikiyatrist, Psikoterapist
+_Psikiyatrist, Psikoterapist_
+
+<div><a href="/hakkinda/">
+  {% image muayenehane.jpg [resize:80%] %}
+</a></div>
