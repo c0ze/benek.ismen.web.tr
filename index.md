@@ -8,5 +8,5 @@ _Psikiyatrist, Psikoterapist_
 
 
 <div><a href="/hakkinda/">
-  {% image muayenehane.jpg [resize:80%] %}
+  {% image muayenehane.jpg [resize:30%] %}
 </a></div>
