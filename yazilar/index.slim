@@ -6,7 +6,8 @@ title: Home
 section.archive
   |  {% for post in site.posts reversed %}
   article.row.gutters
-    a.col.span_12[href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"]
+    h2.col.span_12
       | {{ post.title }}
     div {{ post.excerpt }}
+    a[href="{{ site.baseurl }}{{ post.url }}"] tamamı
   |  {% endfor %}
