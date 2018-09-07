@@ -26,3 +26,6 @@ sass:
 assets:
   sources:
     - _assets/images
+
+google:
+  maps_key: "AIzaSyDIe9MytxyeblPuiIMfmkjaec2grUBRq-g"
