@@ -1,14 +1,14 @@
 - url: /
   title: Anasayfa
 
-- url: /hakkinda
+- url: /hakkinda.html
   title: Hakkında
 
-- url: /yazilar
+- url: /yazilar.html
   title: Yazılar
 
-- url: /ulasim
+- url: /ulasim.html
   title: Ulaşım
 
-- url: /iletisim
+- url: /iletisim.html
   title: İLETİŞİM
