@@ -4,7 +4,7 @@ title: Hakkında
 ---
 
 <div style="float: right;">
-  {% image portre.jpg [resize:30%] %}
+  {% image portre.jpg [resize:15%] %}
 </div>
 
 İstanbul  Üniversitesi  Çapa   Tıp  Fakültesi’nden  mezun  olduktan  sonra  bir  süre  aynı  fakültenin
