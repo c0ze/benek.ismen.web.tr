@@ -36,7 +36,8 @@ konular :
 * Erişkinlerde dikkat eksikliği ve hiperaktivite bozukluğu
 * Kişilik bozuklukları
 * Depresyon
-* Kaygı bozuklukları ( yaygın kaygı bozukluğu, panik bz,fobiler , obsessif kompulsif bz.)
+* Kaygı bozuklukları ( yaygın kaygı bozukluğu, panik bz,fobiler)
+* Obsessif kompulsif bozukluk
 * Travma sonrası stres bozukluğu
 * Bedensel yakınmalara yol açan psikolojik sorunlar
 * Psikodinamik psikoterapi , EMDR ve gerektiğinde ilaç tedavisi uygulamaktadır.

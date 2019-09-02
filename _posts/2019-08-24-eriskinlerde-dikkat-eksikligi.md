@@ -34,8 +34,8 @@ bozukluk, madde bağımlılıkları ( ençok tütün, alkol, esrar), aile proble
 nörogelişim bozukluklarıyla da sıklıkla birlikte görülebilir. Obezite, astım, allerji , sık kaza
 geçirmek gibi sağlık sorunlarını fazlaca yaşarlar.
 
-Dikkat eksikliğinin baskın olduğu görünüm, hiperaktiflik-dürtüselliğin baskın olduğu
-görünüm veya birleşik görünüm olarak üç grupta el alınır. Erişkinlerde hiperaktivite, davranış
+__Dikkat eksikliğinin baskın olduğu görünüm, hiperaktiflik-dürtüselliğin baskın olduğu
+görünüm__ veya __birleşik görünüm__ olarak üç grupta el alınır. Erişkinlerde hiperaktivite, davranış
 düzeyinde değil sürekli bir iç sıkıntısı,huzursuzluk şeklinde kendini gösterir.
 
 __Belirtiler:__
@@ -123,5 +123,4 @@ birlikte görüldüğünden, hepsini içine alan bütüncül bir tedavi program�
 * Kooji S J ve ark. (2010) ___"European consensus statement on diagnosis and treatment of adult ADHD"___ ; The European Network Adult ADHD BMC Psychiatry
 * Ramsay J.R.,Rostain A.L. (2014) ___"Cognitive-Behavior Therapy for Adult ADHD: An Integrative Psychosocial and Medical Approach"___ ; Routledge
 * Semerci B.,Turgay A. (2014) ___"Dikkat Eksikliği ve Hiperaktivite Bozukluğu"___ ; Alfa Yayınları
-* ___"Erişkinlerde Dikkat Eksikliği ve Hiperaktivite Bozukluğu"___ : Tanı ve tedavi kılavuzu (2018) ; Türkiye
-* ___"Psikiyatri Derneği Yayınları"___ ; Yayına hazırlayanlar: Semerci B. , Aksoy U. M.
+* ___"Erişkinlerde Dikkat Eksikliği ve Hiperaktivite Bozukluğu Tanı ve tedavi kılavuzu"___ (2018) ; Türkiye Psikiyatri Derneği Yayınları ; Yayına hazırlayanlar: Semerci B. , Aksoy U. M.

@@ -37,9 +37,9 @@ görevlere odaklanabiliriz.
 
 * __Çalışma belleği:__ Yapmakta olduğumuz işle ilgili bazı bilgileri kısa bir süre zihinde tutmamızı
 ve onlarla oynayıp işimizi sonuca bağlayabilmemizi sağlar. Bu bilgilerin bazıları yeni öğrenilmiş,
-bazıları hafızamızdan çağırılmış olabilir. Sözel çalışma belleği kelimeler ve sayıları zihinde
+bazıları hafızamızdan çağırılmış olabilir. __Sözel çalışma belleği__ kelimeler ve sayıları zihinde
 tutmayı sağlar. Bir işe başlarken ve yürütürken yapılan iç konuşma, kendine rehberlik etme
-gibi düşünülebilir.Görsel- uzamsal çalışma belleği, zihnimizde görüntü olarak bilgileri
+gibi düşünülebilir.__Görsel- uzamsal çalışma belleği__, zihnimizde görüntü olarak bilgileri
 canlandırma durumudur. Konuyla ilgili eski bilgileri belleğimizde canlandırırız veya bir işi
 sürdürürken onun sonuçlanmış halinin görüntüsünü zihnimizde tutarız, adeta bir navigasyon
 gibi.
