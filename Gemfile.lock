@@ -78,7 +78,6 @@ GEM
     jmespath (1.4.0)
     json (2.1.0)
     kramdown (1.17.0)
-    libv8 (3.16.14.19)
     liquid (2.5.5)
     listen (2.10.1)
       celluloid (~> 0.16.0)
@@ -86,7 +85,7 @@ GEM
       rb-inotify (>= 0.9)
     mathn (0.1.0)
     mercenary (0.3.6)
-    mini_magick (4.9.2)
+    mini_magick (4.10.1)
     multi_json (1.13.1)
     parslet (1.5.0)
       blankslate (~> 2.0)
@@ -94,7 +93,7 @@ GEM
     pygments.rb (0.5.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    rack (1.6.10)
+    rack (1.6.13)
     rake (12.1.0)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -102,7 +101,6 @@ GEM
     redcarpet (3.4.0)
     reduce (0.3.0)
       smusher
-    ref (2.0.0)
     safe_yaml (1.0.4)
     sass (3.6.0)
       sass-listen (~> 4.0.0)
@@ -130,9 +128,6 @@ GEM
       sprockets (~> 2.0)
       tilt (~> 1.1)
     temple (0.6.10)
-    therubyracer (0.12.3)
-      libv8 (~> 3.16.14.15)
-      ref
     tilt (1.4.1)
     timers (4.0.4)
       hitimes
@@ -149,8 +144,9 @@ DEPENDENCIES
   jekyll (= 2.0.1)
   jekyll-assets
   jekyll-slim
+  mini_magick (>= 4.9.4)
+  rack (>= 1.6.12)
   reduce
-  therubyracer
 
 BUNDLED WITH
-   1.16.0.pre.2
+   1.16.0
