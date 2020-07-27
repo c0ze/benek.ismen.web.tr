@@ -76,7 +76,7 @@ GEM
       jekyll (~> 2.0)
       sliq
     jmespath (1.4.0)
-    json (2.1.0)
+    json (2.3.1)
     kramdown (1.17.0)
     liquid (2.5.5)
     listen (2.10.1)
