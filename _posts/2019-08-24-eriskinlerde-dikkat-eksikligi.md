@@ -3,7 +3,7 @@ layout: post
 title: ERİŞKİNLERDE DİKKAT EKSİKLİĞİ VE HİPERAKTİVİTE BOZUKLUĞU
 desc: "Erişkinlerde dikkat eksikliği ve hiperaktivite bozukluğu, dikkat, davranış, duygulanım ve canlılığı etkileyen bir bozukluktur."
 keywords: "dikkat, erteleme, procrastination, yönetici işlevler, depresyon, kaygı, hiperfokus"
-excerpt: “İhtiyacımın ne olduğunu , ne yapmam gerektiğini çok iyi biliyorum fakat yapamıyorum.Başkalarına ne yapmaları gerektiğini söyleyip onlara yol gösterebilirim ama bu tavsiyeleri kendim uygulayamıyorum.” Bu zorluk , Erişkin Dikkat Eksikliği ve Hiperaktivite Bozukluğu (DEHB) olan kişilerin en çok yakındığı durumlardan biridir .Sorunları, yapmaları gerekeni bilmemek değil bildiklerini uygulayamamaktır.Çünkü asıl sorun, , kişinin bir amaca ulaşmak için kendini düzenlemeye yönelik davranışlarını seçme,başlatma, sürdürme ,denetleme ve sonlandırmayı sağlayan, yönetici işlevler olarak isimlendirilen bilişsel işlevlerdedir. Dikkat aslında eksik değildir fakat gerekli şekilde yönetilememektedir.
+excerpt: <em>“İhtiyacımın ne olduğunu , ne yapmam gerektiğini çok iyi biliyorum fakat yapamıyorum.Başkalarına ne yapmaları gerektiğini söyleyip onlara yol gösterebilirim ama bu tavsiyeleri kendim uygulayamıyorum.”</em> Bu zorluk , Erişkin Dikkat Eksikliği ve Hiperaktivite Bozukluğu (DEHB) olan kişilerin en çok yakındığı durumlardan biridir .Sorunları, yapmaları gerekeni bilmemek değil bildiklerini uygulayamamaktır.Çünkü asıl sorun, , kişinin bir amaca ulaşmak için kendini düzenlemeye yönelik davranışlarını seçme,başlatma, sürdürme ,denetleme ve sonlandırmayı sağlayan, yönetici işlevler olarak isimlendirilen bilişsel işlevlerdedir. Dikkat aslında eksik değildir fakat gerekli şekilde yönetilememektedir.
 
 ---
 
