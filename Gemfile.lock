@@ -75,7 +75,7 @@ GEM
     jekyll-slim (0.10.0)
       jekyll (~> 2.0)
       sliq
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     json (2.1.0)
     kramdown (1.17.0)
     liquid (2.5.5)
